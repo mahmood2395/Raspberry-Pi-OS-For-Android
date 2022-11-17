@@ -29,10 +29,10 @@ The Android device's IP is shown at the top of the Linux Deploy main window.  Yo
  - From a Windows desktop, connect via RDP **->** **```mstsc.exe /v:10.73.0.31```**
 
  - From a computer running Linux, connect via SSH **->** **```ssh android@10.73.0.31```**
-
- - Pi-hole administration is accessible from any browser on your network **->** **```http://10.73.0.31/admin```**
-
- - If your Android device has a display, you can RDP into the Pi-hole instance (as localhost) by installing the [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) client.
+ 
+ - Default Password is **->** **```Euphemism-Zigzagged-Polish-Unsaved```**
+ 
+ - If your Android device has a display, you can RDP into the Raspberry Pi OS instance (as localhost) by installing the [Microsoft Remote Desktop](https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx) client.
 
 **Additional Info:**
 
